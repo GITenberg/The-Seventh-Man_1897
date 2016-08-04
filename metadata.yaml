@@ -1,0 +1,37 @@
+_repo: The-Seventh-Man_1897
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brand, Max
+    aliases:
+    - Frederick, John
+    - Faust, Frederick Schiller
+    birthdate: 1892
+    deathdate: 1944
+    gutenberg_agent_id: '743'
+    url: http://www.gutenberg.org/2009/agents/743
+    wikipedia: http://en.wikipedia.org/wiki/Max_Brand
+description: The Seventh Man by Max Brand, tells part of the story of the larger-than-life
+  western character, Dan Barry, known as "Whistling Dan," and his alter-ego companions,
+  Black Bart, the wolf-dog, and Satan, the indomitable black stallion. It's also the
+  story of Kate Cumberland and the incredible five-year-old daughter of Kate and Dan,
+  Joan. We first see Dan as a gentle, caring man with a deep sense of fairness. But
+  then, after six years of a peaceful life in their mountain cabin Dan, more feral
+  than human, sets out to revenge an injustice by killing seven men. Ultimately, it
+  is his devot.
+gutenberg_bookshelf: Western
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1897'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- !lcsh 'Western stories'
+- GITenberg
+title: The Seventh Man
+url: http://www.gutenberg.org/ebooks/1897
